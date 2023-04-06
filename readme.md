@@ -8,6 +8,7 @@ Para executar corretamente o software, certifique-se de ter as seguintes tecnolo
 
 - Node.js
 - MySQL
+- Python3
 
 Ferramentas e bibliotecas utilizadas nesta aplicação:
 
